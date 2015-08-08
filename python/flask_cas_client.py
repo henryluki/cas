@@ -1,4 +1,4 @@
-opyright (C) 2014, Cameron Brandon White
+# copyright (C) 2014, Cameron Brandon White
 # -*- coding: utf-8 -*-
 
 import argparse
